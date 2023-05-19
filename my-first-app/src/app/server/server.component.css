@@ -1,0 +1,13 @@
+.online {
+    color: green;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid green; 
+}
+
+.offline {
+    color: red;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid red; 
+}
